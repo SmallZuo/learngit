@@ -1,2 +1,5 @@
 hello Git！！！+2
 this is my first git file!!
+ git add 
+ git commit
+ 
