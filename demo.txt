@@ -4,3 +4,6 @@ this is my first git file!!
  git commit
  
  我是增加的内容
+ 
+ 傻了吧唧的
+ 老板
